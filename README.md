@@ -11,7 +11,7 @@ presently accessible by invitation only.
 Clone the repo and cd to the 'rs' directory.
 
 ```sh
-$ git clone https://github.com/brson/taskcluster-crater
+$ git clone https://github.com/Unity-Billal-mesloub/taskcluster-crater
 $ cd taskcluster-crater/rs
 ```
 
@@ -159,7 +159,7 @@ set up:
 
 [TaskCluster]: http://docs.taskcluster.net/
 [Pulse]: https://pulse.mozilla.org/
-[The crates.io index]: https://github.com/rust-lang/crates.io-index/
+[The crates.io index]: https://github.com/Unity-Billal-mesloub/crates.io-index/
 
 # Modules
 
